@@ -1,0 +1,25 @@
+{
+  "name": "finalproject_sytemintegration",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gargimore208/finalProject_sytemIntegration.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gargimore208/finalProject_sytemIntegration/issues"
+  },
+  "homepage": "https://github.com/gargimore208/finalProject_sytemIntegration#readme",
+  "dependencies": {
+    "@azure/ai-text-analytics": "^5.1.0",
+    "express": "^4.17.3",
+    "joi": "^17.6.0"
+  }
+}
